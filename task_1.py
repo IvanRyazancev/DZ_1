@@ -11,7 +11,7 @@ number = int(input("Введите число: "))
 sum = 0
 for i in str(number):    
     sum += int(i)
-print(sum)
+print("Сумма цифр введенного числа: ", sum)
 
 
 # ***
